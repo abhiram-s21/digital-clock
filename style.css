@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(255, 99, 255);
+}
+
+.container {
+  font-family: "Darumadrop One", cursive;
+  position: absolute;
+  font-size: 4em;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50% , -50%);
+}
